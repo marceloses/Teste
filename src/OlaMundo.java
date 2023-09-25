@@ -7,5 +7,6 @@ public class OlaMundo {
         System.out.println("Hello Santos!");
         System.out.println("Hello Palmeiras!");
         System.out.println("Hello Flamengo!");
+        System.out.println("Hello Fluminense!");
     }
 }
